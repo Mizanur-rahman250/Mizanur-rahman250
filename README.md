@@ -91,10 +91,10 @@ I always avoid complexity. I love to do everything simply and smartly.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <p dir="auto"><a href="mailto:@gmail.com"><img src="SVG/email.svg" alt="github" height="20" width="30" style="max-width: 100%;"></a>
-<a href="https://www.linkedin.com/in//" rel="nofollow"><img src="SVG/linkedin-brands.svg" height="20" width="30" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com//" rel="nofollow"><img src="SVG/facebook-square-brands.svg" alt="facebook" height="20" width="30" style="max-width: 100%;"></a>
-<a href="https://www.instagram.com//" rel="nofollow"><img src="SVG/instagram-brands.svg" alt="instagram" height="20" width="30" style="max-width: 100%;"></a>
+    <p dir="auto"><a href="mailto:miz311942@gmail.com"><img src="email.svg" alt="github" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/" rel="nofollow"><img src="linkedin-brands.svg" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com/nizammsss?mibextid=LQQJ4d" rel="nofollow"><img src="facebook-square-brands.svg" alt="facebook" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com/nizaam_20/" rel="nofollow"><img src="instagram-brands.svg" alt="instagram" height="20" width="30" style="max-width: 100%;"></a>
 </p>
 </p>
 
