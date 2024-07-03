@@ -1,16 +1,110 @@
-## Hi there 👋
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<h1 align="center">Hi, I'm Md. Mizanur Rahman 👋🏾 🙂</h1>
+<h5 align="center">I'm a Full Stack Web Developer</h5>
+<br><br>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+        height="200px",
+        />
+</p><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mizanur-rahman250&label=Profile%20views&color=0e75b6&style=flat" alt="Mizanur-rahman250" /> 
+</p>
 
-<!--
-**Mizanur-rahman250/Mizanur-rahman250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">I work with perfection and find a simple solution to every difficult task.<br><br>
+I always avoid complexity. I love to do everything simply and smartly.</h5>
+<br>
+<h2 align="center">Languages and frameworks that I work with:</h2>
+<br>
+<p align="center"><b>Front-End</b></p>
+<br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="40" alt="go logo" />
+    <img width="12" />
+</p>
+<br>
+<p align="center"><b>Back-End & Database</b></p>
+<br>
+<p align="center"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://seeklogo.com/images/X/xampp-logo-1C1A9E3689-seeklogo.com.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" height="40" alt="go logo" />
+    <img width="12" />
+</p>
+<br>
+<p align="center"><b>Other</b></p><br>
+<p align="center"> 
+    <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" height="40" alt="go logo" />
+    <img width="12" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="go logo" />
+    <img width="12" />
+</p>
+<br>
+<hr>
+<h5>
+    
+- 🔭 I’m currently working on **full stack Web & cybersecurity analytics.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m interested to develop a **web application for you.**
+
+- 👯 I’m looking to collaborate on **GitHub**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mizanur-rahman250](https://github.com/Mizanur-rahman250)
+
+- 💬 Ask me about **full-stack development**
+
+- 📫 How to reach me **Follow my contact information given below...**
+</h5>
+<hr>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <p dir="auto"><a href="mailto:@gmail.com"><img src="SVG/email.svg" alt="github" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in//" rel="nofollow"><img src="SVG/linkedin-brands.svg" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.facebook.com//" rel="nofollow"><img src="SVG/facebook-square-brands.svg" alt="facebook" height="20" width="30" style="max-width: 100%;"></a>
+<a href="https://www.instagram.com//" rel="nofollow"><img src="SVG/instagram-brands.svg" alt="instagram" height="20" width="30" style="max-width: 100%;"></a>
+</p>
+</p>
+
+<br><br><br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mizanur-rahman250&show_icons=true&locale=en&layout=compact" height="200" alt="Mizanur-rahman250" /></p>
+    <br>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mizanur-rahman250&show_icons=true&locale=en" height="200" alt="Mizanur-rahman250" /></p>
+<br><br>
+<h3 align="left">🔥 My Stats :</h3>
+<br><br>
+<div align="center">
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-rahman250&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="200" alt="Mizanur-rahman250" /></p>
+</div>
